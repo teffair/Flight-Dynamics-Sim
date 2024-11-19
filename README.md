@@ -59,7 +59,7 @@ Where:
 
 The lift curve slope for an untapered rectangular wing of finite aspect ratio can be approximated based on an elliptical loading distribution as:
 
-    ![Lift Curve Slope](Images/Equation5.png)
+![Lift Curve Slope](Images/Equation5.png)
 ---
 
 ## Simulation Scenarios
